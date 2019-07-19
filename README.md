@@ -54,6 +54,7 @@ t800.objetivo # => "Be Arnold Schwarzenegger"
 
 ### Rodando os testes
 Para rodar os testes digite:
+
 ```ruby
 rake test
 ```
