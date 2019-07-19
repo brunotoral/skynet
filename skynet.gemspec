@@ -3,7 +3,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require "skynet/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "skynet"
+  spec.name          = "skynet-android-generator"
   spec.version       = Skynet::VERSION
   spec.authors       = ["Bruno Toral"]
   spec.email         = ["brunotoral89@gmail.com"]
