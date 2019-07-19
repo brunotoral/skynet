@@ -26,7 +26,7 @@ ou intale você mesmo usando o comando:
 Você pode criar um android assim:
 
 ```ruby
-t800 = Android.new
+t800 = Skynet::Android.new
 ```
 ### Verificando o número do android
 Para verificar o número gerado pela Skynet para o android criado utilize o método `#numero`
