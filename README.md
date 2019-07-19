@@ -9,7 +9,7 @@ Androids defeituosos, não podem ser destruídos, apenas resetados, porém a fun
 Adicione essa linha no seu Gemfile:
 
 ```ruby
-gem 'skynet'
+gem 'skynet-android-generator'
 ```
 
 e então execute:
@@ -18,7 +18,7 @@ e então execute:
 
 ou intale você mesmo usando o comando:
 
-    $ gem install skynet
+    $ gem install skynet-android-generator
 
 ## Usando
 
