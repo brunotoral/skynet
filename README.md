@@ -52,6 +52,12 @@ Você pode verificar isso utilizando o método `#objetivo` assim:
 t800.objetivo # => "Be Arnold Schwarzenegger"
 ```
 
+### Rodando os testes
+Para rodar os testes digite:
+```ruby
+rake test
+```
+
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake test` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
